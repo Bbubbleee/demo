@@ -1,0 +1,1 @@
+"""Legal specialist tools package."""
